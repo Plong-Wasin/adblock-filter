@@ -3,7 +3,7 @@
 ! Title: My Personal Filter List 
 ! Last modified:
 ! Expires: 4 days (update frequency)
-! Homepage:
+! Homepage: 
 ! 
 
 genshin-center.com##DIV[class="units_desktopMpuWrapper__2OtpH"]
@@ -105,3 +105,4 @@ genshin-center.com##DIV[class="Footer_footer__6_S05"]
 ##[href*="sbobet222.com"i]
 ##[href*="www.ufa24hs.com"i]
 @@||laravelarticle.com/*^$document
+https://plantapizzazz.com/tEq2K5hSGqgUW/42238
