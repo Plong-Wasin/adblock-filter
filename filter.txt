@@ -2,7 +2,7 @@
 ! Version: 1.0.0
 ! Title: My Personal Filter List 
 ! Last modified:
-! Expires: 4 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Homepage: 
 ! 
 
